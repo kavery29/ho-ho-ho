@@ -356,6 +356,9 @@
   .slideshow-container{
     max-width: 100%;
   }
+  .sale{
+    overflow:hidden; 
+  }
   .sale img{
     overflow: hidden;
     box-shadow: 0px;
